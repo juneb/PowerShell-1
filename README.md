@@ -20,7 +20,7 @@ Adds support for the MS PowerShell programming language.
 1. Install the **PowerShell** package:
 
 	1. Press <kbd>Ctrl + Shift + P</kbd>
-	1. Select 'Install Package'
+	1. Select 'Package Control: Install Package'
 	1. Select 'PowerShell'
 
 
